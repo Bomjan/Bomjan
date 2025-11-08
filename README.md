@@ -46,8 +46,8 @@ A personal lyrics and chords manager app, designed for practicing and keeping my
 
 Here’s a snapshot of my GitHub activity:
 
-![Sundra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundrabomjan&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundrabomjan&layout=compact&theme=dracula)
+![Sundra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&theme=dracula&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&theme=dracula)
 
 ---
 

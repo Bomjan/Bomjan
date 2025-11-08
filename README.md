@@ -40,6 +40,13 @@ A Machine Learning model that predicts personality types. Built using FastAPI.
 ![Lyric App](Images/lyric.png)
 A personal lyrics and chords manager app, designed for practicing and keeping my music organized.
 
+### Dzongkha Keyboard Game (Group Project)
+
+[Check it out →](https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork)
+
+![Dzongkha Typing Game](Images/dkeybr.png)
+This was a fun project with an amazing team (Somzam,Shelkar)
+
 ---
 
 ## GitHub Stats

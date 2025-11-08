@@ -24,7 +24,7 @@ Here's what I'm working with and learning day by day:
 
 ---
 
-## Projects I've Built
+## Projects I've Built / Working On
 
 ### 16 Personalities (ML)
 
@@ -53,12 +53,12 @@ Here’s a snapshot of my GitHub activity:
 
 ## How to Reach Me
 
-|                                                   |                                                     |
-| ------------------------------------------------- | --------------------------------------------------- |
-| [LinkedIn](https://linkedin.com/in/sundrabomjan)  | [TikTok](https://www.tiktok.com/@yourusername)      |
-| [Twitter](https://twitter.com/sundrabomjan)       | [Instagram](https://www.instagram.com/yourusername) |
-| [Facebook](https://www.facebook.com/yourusername) | [WhatsApp](https://wa.me/17557031)                  |
-| [Threads](https://www.threads.net/@yourusername)  | [Email](mailto:sundrabomjan@gmail.com)              |
+|                                                        |                                                   |
+| ------------------------------------------------------ | ------------------------------------------------- |
+| [LinkedIn](https://linkedin.com/in/sundrabomjan)       | [TikTok](https://www.tiktok.com/@__s_u_n_d_r_a__) |
+| [Twitter](https://twitter.com/sundrabomjan)            | [Instagram](https://www.instagram.com/suboypeace) |
+| [Facebook](https://www.facebook.com/share/1FaqS5SS9M/) | [WhatsApp](https://wa.me/17557031)                |
+| [Threads](https://www.threads.net/@suboypeace)         | [Email](mailto:sundrabomjan@gmail.com)            |
 
 ---
 

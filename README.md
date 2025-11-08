@@ -28,39 +28,12 @@ Here's what I'm working with and learning day by day:
 
 ### 16 Personalities (ML)
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+### **Projects I've Built / Working On**
 
-  <!-- 16 Personalities Card -->
-  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
-    <img src="Images/personality.png" alt="16 Personalities" style="width:100%; height:180px; object-fit:cover;">
-    <div style="padding:15px;">
-      <h3 style="margin:0 0 10px 0;">16 Personalities (ML)</h3>
-      <p style="font-size:0.9rem; line-height:1.4;">A Machine Learning model that predicts personality types. Built using FastAPI.</p>
-      <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
-    </div>
-  </div>
-
-  <!-- Lyric App Card -->
-  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
-    <img src="Images/lyric.png" alt="Lyric App" style="width:100%; height:180px; object-fit:cover;">
-    <div style="padding:15px;">
-      <h3 style="margin:0 0 10px 0;">Lyric App</h3>
-      <p style="font-size:0.9rem; line-height:1.4;">Personal lyrics and chords manager app for practicing and keeping music organized.</p>
-      <a href="https://github.com/Bomjan/Lyric" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
-    </div>
-  </div>
-
-  <!-- Dzongkha Keyboard Game Card -->
-  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
-    <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" style="width:100%; height:180px; object-fit:cover;">
-    <div style="padding:15px;">
-      <h3 style="margin:0 0 10px 0;">Dzongkha Keyboard Game</h3>
-      <p style="font-size:0.9rem; line-height:1.4;">A fun typing game project built with an amazing team (Somzam, Shelkar).</p>
-      <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
-    </div>
-  </div>
-
-</div>
+| 16 Personalities (ML)                                                                                                                                                                                                                                                                                                                                                                                         | Lyric App                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Dzongkha Keyboard Game                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![16 Personalities](Images/personality.png =300x180)                                                                                                                                                                                                                                                                                                                                                          | ![Lyric App](Images/lyric.png =300x180)                                                                                                                                                                                                                                                                                                                                                                                                                                             | ![Dzongkha Typing Game](Images/dkeybr.png =300x180)                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **A Machine Learning model that predicts personality types. Built using FastAPI.**<br>![Python](https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white)<br>[Check it out →](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities) | **Personal lyrics and chords manager app for practicing and keeping music organized.**<br>![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>[Check it out →](https://github.com/Bomjan/Lyric) | **A fun typing game project built with an amazing team (Somzam, Shelkar).**<br>![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>[Check it out →](https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork) |
 
 ---
 

@@ -24,30 +24,41 @@ Here's what I'm working with and learning day by day:
 
 ---
 
-### Projects I've Built / Working On
+<h3>Projects I've Built / Working On</h3>
 
-| 16 Personalities (ML)                                                              | Lyric App                                                             |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src="Images/personality.png" alt="16 Personalities" width="300" height="180"> | <img src="Images/lyric.png" alt="Lyric App" width="300" height="180"> |
-
-| **A Machine Learning model predicting personality types. Built with FastAPI.**<br>
-![Python](https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white)<br>
-[GitHub →](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities) | **Personal lyrics & chords manager app for practice and music organization.**<br>
-![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>
-[GitHub →](https://github.com/Bomjan/Lyric) |
-
-| Dzongkha Keyboard Game                                                            |     |
-| --------------------------------------------------------------------------------- | --- |
-| <img src="Images/dkeybr.png" alt="Dzongkha Typing Game" width="300" height="180"> |     |
-
-| **A fun typing game built with an amazing team (Somzam, Shelkar).**<br>
-![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>
-[GitHub →](https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork) |
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="Images/personality.png" alt="16 Personalities" width="300" height="180"><br>
+      <strong>16 Personalities (ML)</strong><br>
+      A Machine Learning model predicting personality types. Built with FastAPI.<br>
+      <img src="https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white"><br>
+      <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities">GitHub →</a>
+    </td>
+    <td align="center" valign="top">
+      <img src="Images/lyric.png" alt="Lyric App" width="300" height="180"><br>
+      <strong>Lyric App</strong><br>
+      Personal lyrics & chords manager app for practice and music organization.<br>
+      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <a href="https://github.com/Bomjan/Lyric">GitHub →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" width="300" height="180"><br>
+      <strong>Dzongkha Keyboard Game</strong><br>
+      A fun typing game built with an amazing team (Somzam, Shelkar).<br>
+      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork">GitHub →</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 

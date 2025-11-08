@@ -74,14 +74,34 @@ Here’s a snapshot of my GitHub activity:
 
 ---
 
-## How to Reach Me
+<h3>How to Reach Me</h3>
 
-|                                                        |                                                   |
-| ------------------------------------------------------ | ------------------------------------------------- |
-| [LinkedIn](https://linkedin.com/in/sundrabomjan)       | [TikTok](https://www.tiktok.com/@__s_u_n_d_r_a__) |
-| [Twitter](https://twitter.com/sundrabomjan)            | [Instagram](https://www.instagram.com/suboypeace) |
-| [Facebook](https://www.facebook.com/share/1FaqS5SS9M/) | [WhatsApp](https://wa.me/17557031)                |
-| [Threads](https://www.threads.net/@suboypeace)         | [Email](mailto:sundrabomjan@gmail.com)            |
+<p>
+  <a href="https://linkedin.com/in/sundrabomjan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.tiktok.com/@__s_u_n_d_r_a__" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://twitter.com/sundrabomjan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/suboypeace" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/share/1FaqS5SS9M/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://wa.me/17557031" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.threads.net/@suboypeace" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="mailto:sundrabomjan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 

@@ -31,5 +31,7 @@ jobs:
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🐍 Update Snake Animation"
+          commit_message: "Update Snake Animation"
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}

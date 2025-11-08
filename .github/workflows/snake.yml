@@ -1,26 +1,35 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once every day at midnight
-  workflow_dispatch: # Allows running manually
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sundrabomjan
-          outputs: |
-            ./assets/github-snake.svg
+          github_user_name: Bomjan
+          outputs: dist/github-snake.svg
 
-      - name: Push changes
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
+      - name: Move generated SVG to assets
+        run: cp dist/github-snake.svg assets/github-snake.svg
+
+      - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "🐍 Update Snake Animation"
+          branch: main

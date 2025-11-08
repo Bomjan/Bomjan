@@ -40,11 +40,17 @@ I love **web development**, **creative coding**, and **self-learning Machine Lea
 
 ## 📂 Projects
 
-[![16 Personalities](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities)  
+### [16 Personalities](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities)
+
+![16 Personalities](https://user-images.githubusercontent.com/yourusername/project-image-16p.png)  
 _A Machine Learning model for predicting personality types, implemented with FastAPI._
 
-[![Lyric App](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)](https://github.com/Bomjan/Lyric)  
+### [Lyric App for Myself](https://github.com/Bomjan/Lyric)
+
+![Lyric App](https://user-images.githubusercontent.com/yourusername/project-image-lyric.png)  
 _A lyric and chords app for personal use._
+
+> Replace the `user-images.githubusercontent.com/...` URLs with your project screenshots uploaded to GitHub or any image hosting service.
 
 ---
 
@@ -59,7 +65,7 @@ _A lyric and chords app for personal use._
 
 | Column 1                                                                                                                                             | Column 2                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![LinkedIn](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)](https://linkedin.com/in/sundrabomjan)                                      | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)            |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundrabomjan)  | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)            |
 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sundrabomjan)         | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) |
 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17557031)                    |
 | [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@yourusername)    | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundrabomjan@gmail.com)                      |

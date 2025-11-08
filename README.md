@@ -32,8 +32,11 @@ Here's what I'm working with and learning day by day:
       <img src="Images/personality.png" alt="16 Personalities" width="300" height="180"><br>
       <strong>16 Personalities (ML)</strong><br>
       A Machine Learning model predicting personality types. Built with FastAPI.<br>
-      <img src="https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Python-10%25-brightgreen?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-25%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-40%25-blue?style=for-the-badge&logo=css3&logoColor=white"> <br>
+      <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/FastAPI-5%25-green?style=for-the-badge&logo=fastapi&logoColor=white"><br>
       <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities">GitHub →</a>
     </td>
     <td align="center" valign="top">

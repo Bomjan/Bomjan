@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hey%20there!%20I'm%20Sundra&fontSize=40)
 
-I'm a 1st-year Computer Science student at Gyalpoizhing College of Information Technology (GCIT), School of Computing.  
+I'm a 1st-year Computer Science student at **Gyalpoizhing College of Information Technology (GCIT)**, School of Computing.  
 I enjoy web development, creative coding, and I'm exploring Machine Learning and Wireshark on my own.
 
 ---
@@ -24,7 +24,7 @@ Here's what I'm working with and learning day by day:
 
 ---
 
-<h3>Projects I've Built / Working On</h3>
+<h2>Projects I've Built / Working On</h2>
 
 <table>
   <tr>
@@ -108,7 +108,7 @@ Here’s a snapshot of my GitHub activity:
 ## Fun Fact
 
 I love mixing creativity with coding to make interactive and fun web experiences.  
-Sometimes I spend hours experimenting with animations, visuals, and small projects—it’s how I learn best.
+Sometimes I spend hours experimenting with animations, visuals, and small projects; it’s how I learn best.
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi there, I'm Sundra Bomjan
+# Hi there, I'm Sundra Bomjan 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hey%20there!%20I'm%20Sundra&fontSize=40)
 
@@ -7,79 +7,31 @@ I love **web development**, **creative coding**, and **self-learning Machine Lea
 
 ---
 
-## My Skills
+## 🔥 Skills & Learning
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-<!-- Skill: Python -->
-<div style="width: 200px;">
-**Python**  
-<progress value="40" max="100" style="width: 100%;"></progress>
-</div>
-
-<!-- Skill: JavaScript -->
-<div style="width: 200px;">
-**JavaScript**  
-<progress value="70" max="100" style="width: 100%;"></progress>
-</div>
-
-<!-- Skill: HTML -->
-<div style="width: 200px;">
-**HTML5**  
-<progress value="85" max="100" style="width: 100%;"></progress>
-</div>
-
-<!-- Skill: CSS -->
-<div style="width: 200px;">
-**CSS3**  
-<progress value="85" max="100" style="width: 100%;"></progress>
-</div>
-
-<!-- Skill: Machine Learning -->
-<div style="width: 200px;">
-**Machine Learning**  
-<progress value="30" max="100" style="width: 100%;"></progress>
-</div>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F05032?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0AA0FF?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## Tech Stack
+## 📂 Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- **[16 Personalities](https://github.com/Bomjan/MachineLearning/16Personalities)**  
+  A Machine Learning model for predicting personality types. Implemented with FastAPI.
+
+- **[Lyric App for Myself](https://github.com/Bomjan/Lyric)**  
+  A lyric and chords app for personal use.
 
 ---
 
-## My Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<!-- Project 1 -->
-<div style="border-radius: 15px; background: linear-gradient(135deg,#667eea,#764ba2); padding: 20px; width: 300px; color: white; transition: transform 0.3s;">
-### 16 Personalities
-A Machine Learning Model for predicting personality type. Implemented FastAPI 
-[View Project](https://github.com/Bomjan/MachineLearning/16Personalities)  
-</div>
-
-<!-- Project 2 -->
-<div style="border-radius: 15px; background: linear-gradient(135deg,#ff6a00,#ee0979); padding: 20px; width: 300px; color: white; transition: transform 0.3s;">
-### Lyric App for Myself
-A lyric and Chords app for myself.
-[View Project](https://github.com/Bomjan/Lyric)  
-</div>
-
-</div>
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Sundra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundrabomjan&show_icons=true&theme=dracula&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundrabomjan&layout=compact&theme=dracula)
@@ -88,9 +40,16 @@ A lyric and Chords app for myself.
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundrabomjan)
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundrabomjan)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sundrabomjan)  
- Email: sundra@example.com
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17557031)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@yourusername)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundrabomjan@gmail.com)
 
 ---
 

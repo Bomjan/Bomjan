@@ -28,24 +28,39 @@ Here's what I'm working with and learning day by day:
 
 ### 16 Personalities (ML)
 
-[Check it out →](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities)
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-![16 Personalities](Images/personality.png)  
-A Machine Learning model that predicts personality types. Built using FastAPI.
+  <!-- 16 Personalities Card -->
+  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
+    <img src="Images/personality.png" alt="16 Personalities" style="width:100%; height:180px; object-fit:cover;">
+    <div style="padding:15px;">
+      <h3 style="margin:0 0 10px 0;">16 Personalities (ML)</h3>
+      <p style="font-size:0.9rem; line-height:1.4;">A Machine Learning model that predicts personality types. Built using FastAPI.</p>
+      <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
+    </div>
+  </div>
 
-### Lyric App (Personal Project)
+  <!-- Lyric App Card -->
+  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
+    <img src="Images/lyric.png" alt="Lyric App" style="width:100%; height:180px; object-fit:cover;">
+    <div style="padding:15px;">
+      <h3 style="margin:0 0 10px 0;">Lyric App</h3>
+      <p style="font-size:0.9rem; line-height:1.4;">Personal lyrics and chords manager app for practicing and keeping music organized.</p>
+      <a href="https://github.com/Bomjan/Lyric" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
+    </div>
+  </div>
 
-[Check it out →](https://github.com/Bomjan/Lyric)
+  <!-- Dzongkha Keyboard Game Card -->
+  <div style="width:300px; border-radius:12px; overflow:hidden; box-shadow:0 8px 20px rgba(0,0,0,0.2); background:#1e1e2f; color:#fff; margin-bottom:20px;">
+    <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" style="width:100%; height:180px; object-fit:cover;">
+    <div style="padding:15px;">
+      <h3 style="margin:0 0 10px 0;">Dzongkha Keyboard Game</h3>
+      <p style="font-size:0.9rem; line-height:1.4;">A fun typing game project built with an amazing team (Somzam, Shelkar).</p>
+      <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork" target="_blank" style="text-decoration:none; color:#ff7f50; font-weight:bold;">Check it out →</a>
+    </div>
+  </div>
 
-![Lyric App](Images/lyric.png)
-A personal lyrics and chords manager app, designed for practicing and keeping my music organized.
-
-### Dzongkha Keyboard Game (Group Project)
-
-[Check it out →](https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork)
-
-![Dzongkha Typing Game](Images/dkeybr.png)
-This was a fun project with an amazing team (Somzam,Shelkar)
+</div>
 
 ---
 
@@ -83,5 +98,3 @@ Sometimes I spend hours experimenting with animations, visuals, and small projec
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30)
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bomjan&theme=dracula)

@@ -30,14 +30,14 @@ Here's what I'm working with and learning day by day:
 
 [Check it out →](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities)
 
-![16 Personalities](https://via.placeholder.com/800x250?text=Project+Screenshot)  
+![16 Personalities](Images/personality.png)  
 A Machine Learning model that predicts personality types. Built using FastAPI.
 
 ### Lyric App (Personal Project)
 
 [Check it out →](https://github.com/Bomjan/Lyric)
 
-![Lyric App](https://via.placeholder.com/800x250?text=Project+Screenshot)  
+![Lyric App](Images/lyric.png)
 A personal lyrics and chords manager app, designed for practicing and keeping my music organized.
 
 ---

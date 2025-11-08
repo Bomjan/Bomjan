@@ -24,18 +24,49 @@ Here's what I'm working with and learning day by day:
 
 ---
 
-### **Projects I've Built / Working On**
+<!-- Projects Section -->
+<h3>Projects I've Built / Working On</h3>
 
-| 16 Personalities (ML)                                                                                                                                                                                                                                                                                                                                                                                         | Lyric App                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![16 Personalities](Images/personality.png =300x180)                                                                                                                                                                                                                                                                                                                                                          | ![Lyric App](Images/lyric.png =300x180)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **A Machine Learning model that predicts personality types. Built using FastAPI.**<br>![Python](https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white)<br>[Check it out →](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities) | **Personal lyrics and chords manager app for practicing and keeping music organized.**<br>![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>[Check it out →](https://github.com/Bomjan/Lyric) |
+<div style="border:1px solid #ddd; border-radius:12px; overflow:hidden; margin-bottom:20px; box-shadow:0 4px 10px rgba(0,0,0,0.2); width:100%; max-width:500px;">
+  <img src="Images/personality.png" alt="16 Personalities" style="width:100%; height:180px; object-fit:cover;">
+  <div style="padding:15px;">
+    <h4>16 Personalities (ML)</h4>
+    <p>A Machine Learning model that predicts personality types. Built using FastAPI.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-50%25-green?style=for-the-badge&logo=fastapi&logoColor=white">
+    </p>
+    <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities" target="_blank">Check it out →</a>
+  </div>
+</div>
 
-| Dzongkha Keyboard Game                              |     |
-| --------------------------------------------------- | --- |
-| ![Dzongkha Typing Game](Images/dkeybr.png =300x180) |     |
+<div style="border:1px solid #ddd; border-radius:12px; overflow:hidden; margin-bottom:20px; box-shadow:0 4px 10px rgba(0,0,0,0.2); width:100%; max-width:500px;">
+  <img src="Images/lyric.png" alt="Lyric App" style="width:100%; height:180px; object-fit:cover;">
+  <div style="padding:15px;">
+    <h4>Lyric App</h4>
+    <p>Personal lyrics and chords manager app for practicing and keeping music organized.</p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+    </p>
+    <a href="https://github.com/Bomjan/Lyric" target="_blank">Check it out →</a>
+  </div>
+</div>
 
-| **A fun typing game project built with an amazing team (Somzam, Shelkar).**<br>![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)<br>[Check it out →](https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork)
+<div style="border:1px solid #ddd; border-radius:12px; overflow:hidden; margin-bottom:20px; box-shadow:0 4px 10px rgba(0,0,0,0.2); width:100%; max-width:500px;">
+  <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" style="width:100%; height:180px; object-fit:cover;">
+  <div style="padding:15px;">
+    <h4>Dzongkha Keyboard Game</h4>
+    <p>A fun typing game project built with an amazing team (Somzam, Shelkar).</p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+    </p>
+    <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork" target="_blank">Check it out →</a>
+  </div>
+</div>
 
 ---
 

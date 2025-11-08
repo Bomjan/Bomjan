@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hey%20there!%20I'm%20Sundra&fontSize=40)
 
 I’m a **1st-year Computer Science student** at **Gyalpoizhing College of Information Technology (GCIT), School of Computing**.  
-I love **web development**, **creative coding**, and **self-learning Machine Learning**.
+I love **web development**, **creative coding**, and I'm currently self-learning **Machine Learning** and **Wireshark**.
 
 ---
 
@@ -29,28 +29,23 @@ I love **web development**, **creative coding**, and **self-learning Machine Lea
 
 ---
 
-## 🕒 My Learning Journey
+## 📂 Projects
 
-- **2025 Q1** – Started self-learning Machine Learning
-- **2025 Q2** – Built Lyric App for personal use
-- **2025 Q3** – Learned Wireshark basics
-- **2025 Q4** – Built 16 Personalities ML Model with FastAPI
+### 16 Personalities (ML)
+
+https://github.com/Bomjan/MachineLearning/tree/main/16Personalities
+
+![Project Image](https://via.placeholder.com/800x250?text=Add+Your+Project+Screenshot+Here)  
+_A Machine Learning model for predicting personality types._
 
 ---
 
-## 📂 Projects
+### Lyric App (Personal Project)
 
-### [16 Personalities](https://github.com/Bomjan/MachineLearning/tree/main/16Personalities)
+https://github.com/Bomjan/Lyric
 
-![16 Personalities](https://user-images.githubusercontent.com/yourusername/project-image-16p.png)  
-_A Machine Learning model for predicting personality types, implemented with FastAPI._
-
-### [Lyric App for Myself](https://github.com/Bomjan/Lyric)
-
-![Lyric App](https://user-images.githubusercontent.com/yourusername/project-image-lyric.png)  
-_A lyric and chords app for personal use._
-
-> Replace the `user-images.githubusercontent.com/...` URLs with your project screenshots uploaded to GitHub or any image hosting service.
+![Project Image](https://via.placeholder.com/800x250?text=Add+Your+Project+Screenshot+Here)  
+_A lyric & chords manager app._
 
 ---
 
@@ -63,7 +58,7 @@ _A lyric and chords app for personal use._
 
 ## 📫 Contact Me
 
-| Column 1                                                                                                                                             | Column 2                                                                                                                                                 |
+| ![](https://via.placeholder.com/1x1)                                                                                                                 | ![](https://via.placeholder.com/1x1)                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sundrabomjan)  | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)            |
 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sundrabomjan)         | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername) |
@@ -74,6 +69,12 @@ _A lyric and chords app for personal use._
 
 ## ⚡ Fun Fact
 
-I love **mixing creativity with coding** to make **cool and interactive web experiences**.
+I love **mixing creativity with coding** to make **unique interactive experiences**.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake Animation](./assets/github-snake.svg)

@@ -83,3 +83,5 @@ Sometimes I spend hours experimenting with animations, visuals, and small projec
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30)
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Bomjan&theme=dracula)

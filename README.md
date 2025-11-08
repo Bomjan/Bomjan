@@ -74,7 +74,7 @@ Here’s a snapshot of my GitHub activity:
 
 ---
 
-<h3>How to Reach Me</h3>
+<h2>How to Reach Me</h2>
 
 <p>
   <a href="https://linkedin.com/in/sundrabomjan" target="_blank">

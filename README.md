@@ -60,7 +60,7 @@ Here's what I'm working with and learning day by day:
       <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork">GitHub →</a>
     </td>
     <td align="center" valign="top">
-      <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" width="300" height="180"><br>
+      <img src="Images/game.png" alt="Dzongkha Keyboard Game" width="300" height="180"><br>
       <strong>Bomb Diffuser Game</strong><br>
       Fun quiz game made with Vanilla JavaScript.<br>
       <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">

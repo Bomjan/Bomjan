@@ -69,6 +69,18 @@ Here's what I'm working with and learning day by day:
       <a href="https://github.com/Bomjan/FoP/tree/main/game">GitHub →</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="Images/innovateai.png" alt="Innovate Green AI" width="300" height="180"><br>
+      <strong>Innovate Green AI</strong><br>
+      This is our first StartUp >< <br>
+      <img src="https://img.shields.io/badge/HTML5-30%25-orange?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-33%25-blue?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-33%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <a href="https://github.com/Bomjan/groupwork2_s1">GitHub →</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---

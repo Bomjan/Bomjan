@@ -1,13 +1,12 @@
-# Hey there, I'm Sundra Bomjan 
+# Sundra Bomjan | CTO @ Nori Botanical
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=1st%20Year%20CS%20Student&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=CTO@Nori%20Botanical&fontSize=40)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Tech Quote" />
 </div>
 
-I'm a **1st-year Computer Science student** at **Gyalpoizhing College of Information Technology (GCIT)**.  
-I love building interactive web experiences and exploring the world of Machine Learning and Network Security.
+I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation of intelligent botanical systems. My focus lies at the intersection of scalable tech stacks, AI integration, and the natural world.
 
 ---
 
@@ -88,7 +87,7 @@ I love building interactive web experiences and exploring the world of Machine L
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bomjan/Bomjan/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="./assets/github-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
 <div align="center">

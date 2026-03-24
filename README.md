@@ -73,7 +73,7 @@ Here's what I'm working with and learning day by day:
     <td align="center" valign="top">
       <img src="Images/innovateai.png" alt="Innovate Green AI" width="300" height="180"><br>
       <strong>Innovate Green AI</strong><br>
-      This is our first StartUp >< <br>
+      Get the best AI from us<br>
       <img src="https://img.shields.io/badge/HTML5-30%25-orange?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-33%25-blue?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-33%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>

@@ -1,102 +1,62 @@
-# Hey there, I'm Sundra Bomjan
+# Hey there, I'm Sundra Bomjan 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Hey%20there!%20I'm%20Sundra&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=1st%20Year%20CS%20Student&fontSize=40)
 
-I'm a 1st-year Computer Science student at **Gyalpoizhing College of Information Technology (GCIT)**, School of Computing.  
-I enjoy web development, creative coding, and I'm exploring Machine Learning and Wireshark on my own.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Tech Quote" />
+</div>
 
----
-
-## Skills & Current Focus
-
-Here's what I'm working with and learning day by day:
-
-![Python](https://img.shields.io/badge/Python-40%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-35%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-30%25-red?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-80%25-orange?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-75%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-60%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-20%25-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+I'm a **1st-year Computer Science student** at **Gyalpoizhing College of Information Technology (GCIT)**.  
+I love building interactive web experiences and exploring the world of Machine Learning and Network Security.
 
 ---
 
-<h2>Projects I've Built / Working On</h2>
+## My Tech Stack
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="Images/personality.png" alt="16 Personalities" width="300" height="180"><br>
-      <strong>16 Personalities (ML)</strong><br>
-      A Machine Learning model predicting personality types. Built with FastAPI.<br>
-      <img src="https://img.shields.io/badge/Python-10%25-brightgreen?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML5-25%25-orange?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-40%25-blue?style=for-the-badge&logo=css3&logoColor=white"> <br>
-      <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/FastAPI-5%25-green?style=for-the-badge&logo=fastapi&logoColor=white"><br>
-      <a href="https://github.com/Bomjan/MachineLearning/tree/main/16Personalities">GitHub →</a>
-    </td>
-    <td align="center" valign="top">
-      <img src="Images/lyric.png" alt="Lyric App" width="300" height="180"><br>
-      <strong>Lyric App</strong><br>
-      Personal lyrics & chords manager app for practice and music organization.<br>
-      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <a href="https://github.com/Bomjan/Lyric">GitHub →</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="Images/dkeybr.png" alt="Dzongkha Keyboard Game" width="300" height="180"><br>
-      <strong>Dzongkha Keyboard Game</strong><br>
-      A fun typing game built with an amazing team (Somzam, Shelkar).<br>
-      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <a href="https://github.com/Bomjan/FEWD/tree/main/assignments/groupwork">GitHub →</a>
-    </td>
-    <td align="center" valign="top">
-      <img src="Images/game.png" alt="Dzongkha Keyboard Game" width="300" height="180"><br>
-      <strong>Bomb Diffuser Game</strong><br>
-      Fun quiz game made with Vanilla JavaScript.<br>
-      <img src="https://img.shields.io/badge/HTML5-85%25-orange?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <a href="https://github.com/Bomjan/FoP/tree/main/game">GitHub →</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="Images/innovateai.png" alt="Innovate Green AI" width="300" height="180"><br>
-      <strong>Innovate Green AI</strong><br>
-      Get the best AI from us<br>
-      <img src="https://img.shields.io/badge/HTML5-30%25-orange?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-33%25-blue?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-33%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"><br>
-      <a href="https://github.com/Bomjan/groupwork2_s1">GitHub →</a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+### Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,mysql,git,vscode,linux,wireshark" alt="Skill Icons" />
+</div>
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-Here’s a snapshot of my GitHub activity:
+<div align="center">
+  <a href="https://github.com/Bomjan/Nori">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Nori&theme=dracula" alt="Nori" />
+  </a>
+  <p><b>Nori</b>: Architecting intelligent plant cultivation systems for a greener future.</p>
+</div>
 
-![Sundra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&theme=dracula&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&theme=dracula)
+<div align="center">
+  <a href="https://github.com/Bomjan/MachineLearning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=MachineLearning&theme=dracula" alt="MachineLearning" />
+  </a>
+  <p><b>Machine Learning</b>: Experiments in predictive modeling, including the 16 Personalities model.</p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Bomjan/Lyric">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Lyric&theme=dracula" alt="Lyric" />
+  </a>
+  <p><b>Lyric App</b>: A personal chords and lyrics manager for music practice and organization.</p>
+</div>
 
 ---
 
-<h2>How to Reach Me</h2>
+## GitHub Analytics
 
-<p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
   <a href="https://linkedin.com/in/sundrabomjan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -121,21 +81,16 @@ Here’s a snapshot of my GitHub activity:
   <a href="mailto:sundrabomjan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
 ---
 
-## Fun Fact
+### Contribution Snake
 
-I love mixing creativity with coding to make interactive and fun web experiences.  
-Sometimes I spend hours experimenting with animations, visuals, and small projects; it’s how I learn best.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bomjan/Bomjan/output/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
----
-
-### GitHub Contribution Snake
-
-![GitHub Snake Animation](./assets/github-snake.svg)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30" alt="footer" />
+</div>

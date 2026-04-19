@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 Executive Snapshot
+## Executive Snapshot
 I build **production-grade intelligent systems** that bridge software, machine learning, and real-world operations.
 
-- 🌿 **Current mission:** Leading technology at **Nori Botanical** to scale intelligent cultivation systems.
-- 🧠 **Core focus:** Applied AI, backend architecture, data workflows, and resilient product engineering.
-- ⚙️ **Operating style:** Fast experimentation → measurable outcomes → reliable deployment.
-- 🎯 **Goal:** Deliver technology that is technically excellent *and* practically impactful.
+- **Current mission:** Leading technology at **Nori Botanical** to scale intelligent cultivation systems.
+- **Core focus:** Applied AI, backend architecture, data workflows, and resilient product engineering.
+- **Operating style:** Fast experimentation → measurable outcomes → reliable deployment.
+- **Goal:** Deliver technology that is technically excellent *and* practically impactful.
 
 ---
 
-## 🧭 What I’m Building
+## What I’m Building
 
 ### 1) Intelligent Botanical Systems
 Designing systems that combine sensing, data pipelines, and AI-assisted decision support for better cultivation outcomes.
@@ -39,7 +39,7 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,mysql,git,linux,vscode,github" alt="Tech stack icons"/>
 </div>
@@ -50,7 +50,7 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 <div align="center">
 
 <a href="https://github.com/Bomjan/Nori">
@@ -75,7 +75,7 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&theme=radical&count_private=true&rank_icon=github" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&theme=radical" alt="Top languages"/>
@@ -87,7 +87,7 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 I’m open to collaborations in:
 - AI-powered products
 - automation and data systems
@@ -97,7 +97,7 @@ If you’re building something meaningful, let’s connect and ship.
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 <div align="center">
   <img src="./assets/github-snake.svg" alt="Contribution snake animation"/>
 </div>

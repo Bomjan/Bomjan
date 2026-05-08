@@ -15,33 +15,33 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I build **production-grade intelligent systems** that bridge software, machine learning, and real-world operations.
 
 | | |
 |:--|:--|
-| 🌿 **Current mission** | Leading technology at **Nori Botanical** — scaling intelligent cultivation systems |
-| 🧠 **Core focus** | Applied AI · Backend architecture · Data workflows · Resilient product engineering |
-| ⚡ **Operating style** | Fast experimentation → measurable outcomes → reliable deployment |
-| 🎯 **Goal** | Technology that is technically excellent *and* practically impactful |
+| **Current mission** | Leading technology at **Nori Botanical** — scaling intelligent cultivation systems |
+| **Core focus** | Applied AI · Backend architecture · Data workflows · Resilient product engineering |
+| **Operating style** | Fast experimentation → measurable outcomes → reliable deployment |
+| **Goal** | Technology that is technically excellent *and* practically impactful |
 
 ---
 
-## 🔭 What I'm Building
+## What I'm Building
 
-**🌱 Intelligent Botanical Systems**
+**Intelligent Botanical Systems**
 Designing systems that combine sensing, data pipelines, and AI-assisted decision support for better cultivation outcomes.
 
-**🤖 Applied Machine Learning**
+**Applied Machine Learning**
 Developing and testing practical models for prediction, classification, and automation in product environments.
 
-**🏗️ Developer-First Engineering**
+**Developer-First Engineering**
 Creating clean architectures, reusable tooling, and workflows that keep teams fast without sacrificing reliability.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -57,40 +57,39 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/Bomjan/Nori">Nori</a></h3>
+      <p>Intelligent plant cultivation platform focused on scalable architecture and real-world automation.</p>
       <a href="https://github.com/Bomjan/Nori">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Nori&theme=radical" width="100%" alt="Nori"/>
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Nori"/>
       </a>
-      <br/><sub><b>Intelligent plant cultivation platform focused on scalable architecture and real-world automation.</b></sub>
     </td>
-    <td align="center" width="50%">
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/Bomjan/MachineLearning">MachineLearning</a></h3>
+      <p>Practical ML experiments and model implementations, including personality prediction work.</p>
       <a href="https://github.com/Bomjan/MachineLearning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=MachineLearning&theme=radical" width="100%" alt="MachineLearning"/>
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View MachineLearning"/>
       </a>
-      <br/><sub><b>Practical ML experiments and model implementations, including personality prediction work.</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td valign="top" colspan="2">
+      <h3><a href="https://github.com/Bomjan/Lyric">Lyric</a></h3>
+      <p>Personal lyrics/chords management application optimized for music workflow.</p>
       <a href="https://github.com/Bomjan/Lyric">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Lyric&theme=radical" alt="Lyric"/>
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Lyric"/>
       </a>
-      <br/><sub><b>Personal lyrics/chords management application optimized for music workflow.</b></sub>
     </td>
   </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -115,7 +114,7 @@ Creating clean architectures, reusable tooling, and workflows that keep teams fa
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 <div align="center">
 
@@ -127,7 +126,7 @@ I'm open to collaborations in **AI-powered products**, **automation and data sys
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="./assets/github-snake.svg" width="100%" alt="Contribution snake animation"/>

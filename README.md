@@ -10,6 +10,7 @@ With a background spanning full-stack development, systems programming, and data
 
 ---
 
+<!--
 ## Experience
 
 - **CTO — Nori Botanical** *(Present)*
@@ -22,6 +23,7 @@ With a background spanning full-stack development, systems programming, and data
   Designed and trained predictive models, including a personality-prediction system built on the 16 Personalities framework.
 
 ---
+-->
 
 ## Tech Stack
 

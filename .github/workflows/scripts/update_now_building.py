@@ -22,7 +22,7 @@ def fetch(url):
 repos = fetch(f"https://api.github.com/users/{USERNAME}/repos?sort=pushed&per_page=10")
 repos = [r for r in repos if not r["fork"] and r["name"] != PROFILE_REPO]
 
-cards = []
+cells = []
 for repo in repos[:3]:
     name = repo["name"]
     url = repo["html_url"]
@@ -35,13 +35,14 @@ for repo in repos[:3]:
         "&text_color=6B4F3F&icon_color=C17F59"
     )
 
-    cards.append(f"""<a href="{url}">
-  <img src="{pin_url}" alt="{name}" />
-</a>
-<br/>
-<sub>Last activity: {pushed_at}</sub>""")
+    cells.append(f"""<td align="center">
 
-block = "<div align=\"center\">\n\n" + "\n\n".join(cards) + "\n\n</div>"
+[![{name}]({pin_url})]({url})
+<sub>Last activity: {pushed_at}</sub>
+
+</td>""")
+
+block = "<table align=\"center\">\n<tr>\n" + "\n".join(cells) + "\n</tr>\n</table>"
 
 with open(README_PATH, "r") as f:
     content = f.read()

@@ -22,13 +22,11 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 <!--NOW_BUILDING:START-->
 <div align="center">
 
-**one-minute-curiosity**
+<a href="https://github.com/Bomjan/one-minute-curiosity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59" alt="one-minute-curiosity" />
+</a>
 
-No description provided.
-
-*Last updated: 2026-06-14*
-
-[View Project →](https://github.com/Bomjan/one-minute-curiosity)
+<sub>Last activity: 2026-06-14</sub>
 
 </div>
 <!--NOW_BUILDING:END-->

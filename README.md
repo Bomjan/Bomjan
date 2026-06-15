@@ -38,8 +38,8 @@ No description provided.
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bomjan&show_icons=true&count_private=true&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bomjan&layout=compact&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F" alt="Top Languages" />
 </div>
 
 ---
@@ -82,5 +82,5 @@ No description provided.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Coding!&fontSize=30" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBF3EA,100:C17F59&height=120&section=footer&text=Keep%20Coding!&fontSize=30&fontColor=4A3526" alt="footer" />
 </div>

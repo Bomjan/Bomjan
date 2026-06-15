@@ -10,9 +10,38 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,mysql,git,vscode,linux,wireshark" alt="Skill Icons" />
-</div>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,js" alt="Languages" />
+
+</td>
+<td align="center" width="25%">
+
+**Web**
+
+<img src="https://skillicons.dev/icons?i=html,css" alt="Web" />
+
+</td>
+<td align="center" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode" alt="Tools" />
+
+</td>
+<td align="center" width="25%">
+
+**Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,wireshark" alt="Systems" />
+
+</td>
+</tr>
+</table>
 
 ---
 

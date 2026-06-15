@@ -83,5 +83,5 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBF3EA,100:C17F59&height=120&section=footer&text=Keep%20Coding!&fontSize=30&fontColor=4A3526" alt="footer" />
+  <img src="./Images/footer.png" alt="Thanks for visiting" width="100%" />
 </div>

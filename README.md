@@ -24,7 +24,13 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 <!--NOW_BUILDING:START-->
 <div align="center">
 
-Loading latest activity...
+**one-minute-curiosity**
+
+No description provided.
+
+*Last updated: 2026-06-14*
+
+[View Project →](https://github.com/Bomjan/one-minute-curiosity)
 
 </div>
 <!--NOW_BUILDING:END-->

@@ -76,7 +76,10 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 ### Contribution Snake
 
 <div align="center">
-  <img src="./assets/github-snake.svg" alt="GitHub Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <img src="./assets/github-snake.svg" alt="GitHub Snake Animation" />
+  </picture>
 </div>
 
 <div align="center">

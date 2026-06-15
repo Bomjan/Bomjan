@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:

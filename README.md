@@ -25,8 +25,20 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 <a href="https://github.com/Bomjan/one-minute-curiosity">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59" alt="one-minute-curiosity" />
 </a>
-
+<br/>
 <sub>Last activity: 2026-06-14</sub>
+
+<a href="https://github.com/Bomjan/nori-brandbook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=nori-brandbook&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59" alt="nori-brandbook" />
+</a>
+<br/>
+<sub>Last activity: 2026-06-11</sub>
+
+<a href="https://github.com/Bomjan/selwa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=selwa&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59" alt="selwa" />
+</a>
+<br/>
+<sub>Last activity: 2026-06-03</sub>
 
 </div>
 <!--NOW_BUILDING:END-->

@@ -10,6 +10,19 @@ With a background spanning full-stack development, systems programming, and data
 
 ---
 
+## Experience
+
+- **CTO — Nori Botanical** *(Present)*
+  Leading technology strategy and engineering for an intelligent plant cultivation platform — overseeing system architecture, automation, and the integration of AI/ML into agricultural workflows.
+
+- **Software Engineer / Developer** *(Earlier roles)*
+  Built and maintained full-stack applications, with hands-on experience across backend systems, databases, and developer tooling.
+
+- **Machine Learning Projects**
+  Designed and trained predictive models, including a personality-prediction system built on the 16 Personalities framework.
+
+---
+
 ## Tech Stack
 
 <table align="center" width="100%">

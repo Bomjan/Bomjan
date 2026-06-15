@@ -58,16 +58,16 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 
 <div align="center">
   <a href="https://linkedin.com/in/sundrabomjan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/share/1FaqS5SS9M/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA" alt="Facebook">
   </a>
   <a href="https://wa.me/17557031" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-4A3526?style=for-the-badge&logo=whatsapp&logoColor=FBF3EA" alt="WhatsApp">
   </a>
   <a href="mailto:sundrabomjan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA" alt="Email">
   </a>
 </div>
 

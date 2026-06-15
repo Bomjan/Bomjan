@@ -57,18 +57,15 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 ## Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/sundrabomjan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/share/1FaqS5SS9M/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA" alt="Facebook">
-  </a>
-  <a href="https://wa.me/17557031" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-4A3526?style=for-the-badge&logo=whatsapp&logoColor=FBF3EA" alt="WhatsApp">
-  </a>
-  <a href="mailto:sundrabomjan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA" alt="Email">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA)](https://linkedin.com/in/sundrabomjan)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA)](https://www.facebook.com/share/1FaqS5SS9M/)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4A3526?style=for-the-badge&logo=whatsapp&logoColor=FBF3EA)](https://wa.me/17557031)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA)](mailto:sundrabomjan@gmail.com)
+
 </div>
 
 ---

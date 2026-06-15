@@ -35,14 +35,14 @@ for repo in repos[:3]:
         "&text_color=6B4F3F&icon_color=C17F59"
     )
 
-    cells.append(f"""<td align="center">
+    cells.append(f"""<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 [![{name}]({pin_url})]({url})
 <sub>Last activity: {pushed_at}</sub>
 
-</td>""")
+</div>""")
 
-block = "<table align=\"center\">\n<tr>\n" + "\n".join(cells) + "\n</tr>\n</table>"
+block = "<div align=\"center\">\n\n" + "\n".join(cells) + "\n\n</div>"
 
 with open(README_PATH, "r") as f:
     content = f.read()

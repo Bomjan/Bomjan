@@ -27,66 +27,66 @@ With a background spanning full-stack development, systems programming, and data
 
 ## Tech Stack
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
+<div align="center">
+
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,go,js,ts" alt="Languages" />
 
-</td>
-<td align="center" width="25%">
+</div>
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 **Web**
 
 <img src="https://skillicons.dev/icons?i=html,css" alt="Web" />
 
-</td>
-<td align="center" width="25%">
+</div>
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,git,idea,postman" alt="Tools" />
 
-</td>
-<td align="center" width="25%">
+</div>
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 **Systems**
 
 <img src="https://skillicons.dev/icons?i=linux,windows,wireshark" alt="Systems" />
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
 ## Now Building
 
 <!--NOW_BUILDING:START-->
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
+
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 [![one-minute-curiosity](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/one-minute-curiosity)
 <sub>Last activity: 2026-06-14</sub>
 
-</td>
-<td align="center">
+</div>
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 [![nori-brandbook](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=nori-brandbook&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/nori-brandbook)
 <sub>Last activity: 2026-06-11</sub>
 
-</td>
-<td align="center">
+</div>
+<div style="display:inline-block; vertical-align:top; margin:8px 16px;">
 
 [![selwa](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=selwa&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/selwa)
 <sub>Last activity: 2026-06-03</sub>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 <!--NOW_BUILDING:END-->
 
 ---
@@ -102,25 +102,25 @@ With a background spanning full-stack development, systems programming, and data
 
 ## Let's Connect
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
+<div align="center">
+
+<div style="display:inline-block; margin:8px 12px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA)](https://linkedin.com/in/sundrabomjan)
 
-</td>
-<td align="center" width="33%">
+</div>
+<div style="display:inline-block; margin:8px 12px;">
 
 [![Facebook](https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA)](https://www.facebook.com/share/1FaqS5SS9M/)
 
-</td>
-<td align="center" width="33%">
+</div>
+<div style="display:inline-block; margin:8px 12px;">
 
 [![Email](https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA)](mailto:sundrabomjan@gmail.com)
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -131,6 +131,10 @@ With a background spanning full-stack development, systems programming, and data
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
     <img src="./assets/github-snake.svg" alt="GitHub Snake Animation" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bomjan&label=Profile%20Views&color=C17F59&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">

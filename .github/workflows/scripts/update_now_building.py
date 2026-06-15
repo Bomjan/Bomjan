@@ -24,19 +24,23 @@ repos = [r for r in repos if not r["fork"] and r["name"] != PROFILE_REPO]
 
 latest = repos[0]
 name = latest["name"]
-description = latest["description"] or "No description provided."
 url = latest["html_url"]
 pushed_at = latest["pushed_at"][:10]
 
+pin_url = (
+    "https://github-readme-stats.vercel.app/api/pin/"
+    f"?username={USERNAME}&repo={name}"
+    "&hide_border=true&bg_color=FBF3EA&title_color=4A3526"
+    "&text_color=6B4F3F&icon_color=C17F59"
+)
+
 block = f"""<div align="center">
 
-**{name}**
+<a href="{url}">
+  <img src="{pin_url}" alt="{name}" />
+</a>
 
-{description}
-
-*Last updated: {pushed_at}*
-
-[View Project →]({url})
+<sub>Last activity: {pushed_at}</sub>
 
 </div>"""
 

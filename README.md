@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm the **CTO at Nori Botanical**, where I lead engineering and technology strategy at the intersection of software, applied AI, and botanical science. My work centers on building scalable systems that bring data-driven precision to plant cultivation — from automation and sensor integration to machine learning models that turn raw data into actionable insight.
+I'm the **CTO at [Nori Botanical](https://noribotanical.com)**, where I lead engineering and technology strategy at the intersection of software, applied AI, and botanical science. My work centers on building scalable systems that bring data-driven precision to plant cultivation — from automation and sensor integration to machine learning models that turn raw data into actionable insight.
 
 With a background spanning full-stack development, systems programming, and data analysis, I enjoy translating complex technical challenges into practical, real-world solutions. I'm always exploring new ways to combine engineering rigor with creative problem-solving.
 
@@ -104,22 +104,17 @@ With a background spanning full-stack development, systems programming, and data
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA)](https://linkedin.com/in/sundrabomjan)
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 [![Facebook](https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA)](https://www.facebook.com/share/1FaqS5SS9M/)
 
 </td>
-<td align="center" width="25%">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4A3526?style=for-the-badge&logo=whatsapp&logoColor=FBF3EA)](https://wa.me/17557031)
-
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 [![Email](https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA)](mailto:sundrabomjan@gmail.com)
 

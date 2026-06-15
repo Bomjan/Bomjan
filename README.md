@@ -39,7 +39,7 @@ With a background spanning full-stack development, systems programming, and data
 
 **Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,wireshark" alt="Systems" />
+<img src="https://skillicons.dev/icons?i=linux,windows,wireshark" alt="Systems" />
 
 </td>
 </tr>

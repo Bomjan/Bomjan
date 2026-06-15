@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%234A3526&color_dots=%23FBF3EA,%23F0DCC8,%23E0BFA0,%23D4A574,%23C17F59
+            dist/github-snake.svg?color_snake=%232D1B0E&color_dots=%23EFE3D6,%23E3B996,%23D99B6C,%23C17F59,%238B5A3C
             dist/github-snake-dark.svg?palette=github-dark
           
       - name: ensure assets folder exists

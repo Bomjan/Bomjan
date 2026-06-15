@@ -32,7 +32,7 @@ With a background spanning full-stack development, systems programming, and data
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,git,goland,postman" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=postgres,git,idea,postman" alt="Tools" />
 
 </td>
 <td align="center" width="25%">

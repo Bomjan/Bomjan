@@ -56,24 +56,24 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 
 ## Let's Connect
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4A3526?style=for-the-badge&logo=linkedin&logoColor=FBF3EA)](https://linkedin.com/in/sundrabomjan)
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 [![Facebook](https://img.shields.io/badge/Facebook-4A3526?style=for-the-badge&logo=facebook&logoColor=FBF3EA)](https://www.facebook.com/share/1FaqS5SS9M/)
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4A3526?style=for-the-badge&logo=whatsapp&logoColor=FBF3EA)](https://wa.me/17557031)
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 [![Email](https://img.shields.io/badge/Email-4A3526?style=for-the-badge&logo=gmail&logoColor=FBF3EA)](mailto:sundrabomjan@gmail.com)
 

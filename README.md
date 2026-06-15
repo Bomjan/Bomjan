@@ -19,6 +19,18 @@ I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation
 
 ---
 
+## Now Building
+
+<!--NOW_BUILDING:START-->
+<div align="center">
+
+Loading latest activity...
+
+</div>
+<!--NOW_BUILDING:END-->
+
+---
+
 ## Featured Projects
 
 <div align="center">

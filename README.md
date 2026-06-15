@@ -1,6 +1,8 @@
 # Sundra Bomjan | CTO @ Nori Botanical
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=CTO@Nori%20Botanical&fontSize=40)
+<div align="center">
+  <img src="./Images/cover.png" alt="Sundra Bomjan" width="100%" />
+</div>
 
 I am the **CTO @ Nori Botanical**, dedicated to architecting the next generation of intelligent botanical systems. My focus lies at the intersection of scalable tech stacks, AI integration, and the natural world.
 

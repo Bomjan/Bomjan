@@ -18,7 +18,7 @@ With a background spanning full-stack development, systems programming, and data
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,go,js" alt="Languages" />
 
 </td>
 <td align="center" width="25%">

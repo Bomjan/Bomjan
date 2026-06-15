@@ -118,5 +118,5 @@
 </div>
 
 <div align="center">
-  <img src="./Images/footer.png" alt="Thanks for visiting" width="100%" />
+  <img src="./Images/footer-final.png" alt="Thanks for visiting" width="100%" />
 </div>

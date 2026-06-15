@@ -35,31 +35,6 @@ No description provided.
 
 ---
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Bomjan/Nori">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Nori&theme=dracula" alt="Nori" />
-  </a>
-  <p><b>Nori</b>: Architecting intelligent plant cultivation systems for a greener future.</p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Bomjan/MachineLearning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=MachineLearning&theme=dracula" alt="MachineLearning" />
-  </a>
-  <p><b>Machine Learning</b>: Experiments in predictive modeling, including the 16 Personalities model.</p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Bomjan/Lyric">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Lyric&theme=dracula" alt="Lyric" />
-  </a>
-  <p><b>Lyric App</b>: A personal chords and lyrics manager for music practice and organization.</p>
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">

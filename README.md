@@ -2,6 +2,12 @@
   <img src="./Images/new-cover.png" alt="Sundra Bomjan" width="100%" />
 </div>
 
+## About Me
+
+I'm the **CTO at Nori Botanical**, where I lead engineering and technology strategy at the intersection of software, applied AI, and botanical science. My work centers on building scalable systems that bring data-driven precision to plant cultivation — from automation and sensor integration to machine learning models that turn raw data into actionable insight.
+
+With a background spanning full-stack development, systems programming, and data analysis, I enjoy translating complex technical challenges into practical, real-world solutions. I'm always exploring new ways to combine engineering rigor with creative problem-solving.
+
 ---
 
 ## Tech Stack

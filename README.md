@@ -70,19 +70,19 @@ With a background spanning full-stack development, systems programming, and data
 <td align="center" width="33%">
 
 [![one-minute-curiosity](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/one-minute-curiosity)
-<sub>Last activity: 2026-08-24</sub>
+<sub>Last activity: 2026-08-25</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![Data-Analysis-and-Visualization](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Data-Analysis-and-Visualization&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/Data-Analysis-and-Visualization)
+<sub>Last activity: 2026-08-25</sub>
 
 </td>
 <td align="center" width="33%">
 
 [![ADS](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=ADS&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/ADS)
 <sub>Last activity: 2026-08-17</sub>
-
-</td>
-<td align="center" width="33%">
-
-[![nori-brandbook](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=nori-brandbook&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/nori-brandbook)
-<sub>Last activity: 2026-06-11</sub>
 
 </td>
 </tr>

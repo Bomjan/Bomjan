@@ -70,19 +70,19 @@ With a background spanning full-stack development, systems programming, and data
 <td align="center" width="33%">
 
 [![one-minute-curiosity](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/one-minute-curiosity)
-<sub>Last activity: 2026-09-26</sub>
+<sub>Last activity: 2026-09-27</sub>
+
+</td>
+<td align="center" width="33%">
+
+[![dzong-keeper-game](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=dzong-keeper-game&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/dzong-keeper-game)
+<sub>Last activity: 2026-09-27</sub>
 
 </td>
 <td align="center" width="33%">
 
 [![Data-Analysis-and-Visualization](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=Data-Analysis-and-Visualization&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/Data-Analysis-and-Visualization)
 <sub>Last activity: 2026-08-25</sub>
-
-</td>
-<td align="center" width="33%">
-
-[![ADS](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=ADS&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/ADS)
-<sub>Last activity: 2026-08-17</sub>
 
 </td>
 </tr>

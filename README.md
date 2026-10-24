@@ -69,14 +69,14 @@ With a background spanning full-stack development, systems programming, and data
 <tr>
 <td align="center" width="33%">
 
-[![tshongkhang](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=tshongkhang&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/tshongkhang)
+[![dzong-keeper-game](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=dzong-keeper-game&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/dzong-keeper-game)
 <sub>Last activity: 2026-10-23</sub>
 
 </td>
 <td align="center" width="33%">
 
-[![dzong-keeper-game](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=dzong-keeper-game&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/dzong-keeper-game)
-<sub>Last activity: 2026-10-22</sub>
+[![tshongkhang](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=tshongkhang&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/tshongkhang)
+<sub>Last activity: 2026-10-23</sub>
 
 </td>
 <td align="center" width="33%">

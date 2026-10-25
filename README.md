@@ -14,12 +14,12 @@ I enjoy turning real problems into useful software, from early prototypes to dep
 
 These are real ventures with **private source repositories**. I share product-level information here without publishing proprietary implementation details.
 
-### 🌱 [Nori Botanical](https://noribotanical.com)
+### [Nori Botanical](https://noribotanical.com)
 A Bhutan-focused plant marketplace working to make discovering, buying, and selling plants more organized and trustworthy.
 
 **My role:** CTO — product engineering and technical direction.
 
-### ⌨️ [Yigpar](https://yigpar-game.onrender.com)
+### [Yigpar](https://yigpar-game.onrender.com)
 A gamified Dzongkha typing experience designed to make keyboard practice more engaging and accessible.
 
 **Milestone:** Second place at the Youth Tech-novation Hackathon (Level 2).

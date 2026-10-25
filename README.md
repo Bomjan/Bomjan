@@ -4,26 +4,39 @@
 
 ## About Me
 
-I'm the **CTO at [Nori Botanical](https://noribotanical.com)**, where I lead engineering and technology strategy at the intersection of software, applied AI, and botanical science. My work centers on building scalable systems that bring data-driven precision to plant cultivation — from automation and sensor integration to machine learning models that turn raw data into actionable insight.
+I'm a software developer and **CTO at [Nori Botanical](https://noribotanical.com)**, building practical products with full-stack engineering and applied AI. I work primarily with Go, JavaScript/TypeScript, React, databases, and Linux, and I'm continuously strengthening my foundations in algorithms and systems design.
 
-With a background spanning full-stack development, systems programming, and data analysis, I enjoy translating complex technical challenges into practical, real-world solutions. I'm always exploring new ways to combine engineering rigor with creative problem-solving.
+I enjoy turning real problems into useful software, from early prototypes to deployed applications.
+
+---
+
+## Products I'm Building
+
+These are real ventures with **private source repositories**. I share product-level information here without publishing proprietary implementation details.
+
+### 🌱 [Nori Botanical](https://noribotanical.com)
+A Bhutan-focused plant marketplace working to make discovering, buying, and selling plants more organized and trustworthy.
+
+**My role:** CTO — product engineering and technical direction.
+
+### ⌨️ [Yigpar](https://yigpar-game.onrender.com)
+A gamified Dzongkha typing experience designed to make keyboard practice more engaging and accessible.
+
+**Milestone:** Second place at the Youth Tech-novation Hackathon (Level 2).
 
 ---
 
-<!--
-## Experience
+## Open-Source & Engineering Projects
 
-- **CTO — Nori Botanical** *(Present)*
-  Leading technology strategy and engineering for an intelligent plant cultivation platform — overseeing system architecture, automation, and the integration of AI/ML into agricultural workflows.
+My public repositories are where I share code, experiments, and engineering progress.
 
-- **Software Engineer / Developer** *(Earlier roles)*
-  Built and maintained full-stack applications, with hands-on experience across backend systems, databases, and developer tooling.
+- **[Dzong Keeper](https://github.com/Bomjan/dzong-keeper-game)** — Java game development and hands-on practice with data structures, algorithms, and object-oriented design.
+- **[One Minute Curiosity](https://github.com/Bomjan/one-minute-curiosity)** — a creative project for sharing bite-sized ideas and discoveries.
+- **[Tshongkhang](https://github.com/Bomjan/tshongkhang)** — another public project from my development portfolio.
 
-- **Machine Learning Projects**
-  Designed and trained predictive models, including a personality-prediction system built on the 16 Personalities framework.
+For implementation details, explore the code and documentation in the public repositories.
 
 ---
--->
 
 ## Tech Stack
 

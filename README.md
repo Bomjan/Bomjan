@@ -16,7 +16,7 @@
 
 <table width="100%"><tr><td width="50%" valign="top"><a href="https://noribotanical.com"><img src="./assets/card-nori.svg" alt="Nori Botanical — project card" width="100%"/></a></td><td width="50%" valign="top"><a href="https://yigpar-game.onrender.com"><img src="./assets/card-yigpar.svg" alt="Yigpar — project card" width="100%"/></a></td></tr></table>
 
-<sub>Nori Botanical — plant marketplace and product engineering. &nbsp; | &nbsp; Yigpar — Dzongkha typing game; second place at Youth Tech-novation Hackathon, Level 2.</sub>
+<p><sub><strong>Nori Botanical:</strong> Plant marketplace and product engineering. &nbsp; <strong>Yigpar:</strong> Dzongkha typing game; second place at the Youth Tech-novation Hackathon (Level 2).</sub></p>
 
 ---
 
@@ -26,7 +26,16 @@
 
 <p>Selected public repositories that demonstrate my engineering work.</p>
 
-<table width="100%"><tr><td width="33%" valign="top"><a href="https://github.com/Bomjan/dzong-keeper-game"><img src="./assets/card-dzong.svg" alt="Dzong Keeper — project card" width="100%"/></a></td><td width="33%" valign="top"><a href="https://github.com/Bomjan/one-minute-curiosity"><img src="./assets/card-curiosity.svg" alt="One Minute Curiosity — project card" width="100%"/></a></td><td width="33%" valign="top"><a href="https://github.com/Bomjan/tshongkhang"><img src="./assets/card-tshong.svg" alt="Tshongkhang — project card" width="100%"/></a></td></tr></table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Bomjan/dzong-keeper-game"><img src="./assets/card-dzong.svg" alt="Dzong Keeper — Java game development and data structures" width="100%"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Bomjan/one-minute-curiosity"><img src="./assets/card-curiosity.svg" alt="One Minute Curiosity — creative development" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Bomjan/tshongkhang"><img src="./assets/card-tshong.svg" alt="Tshongkhang — software development" width="100%"/></a></td>
+<td width="50%" valign="middle"><blockquote><strong>Engineering in public</strong><p>These repositories document my experiments, problem-solving, and ongoing growth as a developer.</p><p><a href="https://github.com/Bomjan?tab=repositories">Explore all repositories</a></p></blockquote></td>
+</tr>
+</table>
 
 ---
 

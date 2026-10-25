@@ -12,29 +12,40 @@ I enjoy turning real problems into useful software, from early prototypes to dep
 
 ## Products I'm Building
 
-These are real ventures with **private source repositories**. I share product-level information here without publishing proprietary implementation details.
+<sub>REAL PRODUCTS · PRIVATE SOURCE REPOSITORIES</sub>
 
-### [Nori Botanical](https://noribotanical.com)
-A Bhutan-focused plant marketplace working to make discovering, buying, and selling plants more organized and trustworthy.
+<p>Two products I'm helping build for Bhutan. Their source code is private; the links below lead to public product experiences.</p>
 
-**My role:** CTO — product engineering and technical direction.
-
-### [Yigpar](https://yigpar-game.onrender.com)
-A gamified Dzongkha typing experience designed to make keyboard practice more engaging and accessible.
-
-**Milestone:** Second place at the Youth Tech-novation Hackathon (Level 2).
+<table width="100%"><tr>
+<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
+<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://noribotanical.com">Nori Botanical</a></h3><sub>PLANT MARKETPLACE · CTO</sub><p>A marketplace making plant discovery, buying, and selling more organized and trustworthy.</p><a href="https://noribotanical.com">Visit website</a></td></tr></table>
+</td>
+<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
+<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://yigpar-game.onrender.com">Yigpar</a></h3><sub>DZONGKHA · EDUCATION</sub><p>A gamified Dzongkha typing experience. Second place at the Youth Tech-novation Hackathon (Level 2).</p><a href="https://yigpar-game.onrender.com">Explore Yigpar</a></td></tr></table>
+</td>
+</tr></table>
 
 ---
 
 ## Open-Source & Engineering Projects
 
-My public repositories are where I share code, experiments, and engineering progress.
+<sub>LEARNING · BUILDING · SHARING</sub>
 
-- **[Dzong Keeper](https://github.com/Bomjan/dzong-keeper-game)** — Java game development and hands-on practice with data structures, algorithms, and object-oriented design.
-- **[One Minute Curiosity](https://github.com/Bomjan/one-minute-curiosity)** — a creative project for sharing bite-sized ideas and discoveries.
-- **[Tshongkhang](https://github.com/Bomjan/tshongkhang)** — another public project from my development portfolio.
+<p>Selected public repositories where I share code and engineering progress.</p>
 
-For implementation details, explore the code and documentation in the public repositories.
+<table width="100%"><tr>
+<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
+<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/dzong-keeper-game">Dzong Keeper</a></h3><sub>JAVA · DATA STRUCTURES</sub><p>A Java game project for practicing object-oriented design, algorithms, and custom data structures.</p><a href="https://github.com/Bomjan/dzong-keeper-game">View repository</a></td></tr></table>
+</td>
+<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
+<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/one-minute-curiosity">One Minute Curiosity</a></h3><sub>CREATIVE DEVELOPMENT</sub><p>A project exploring bite-sized discoveries and engaging ways to share ideas.</p><a href="https://github.com/Bomjan/one-minute-curiosity">View repository</a></td></tr></table>
+</td>
+</tr><tr>
+<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
+<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/tshongkhang">Tshongkhang</a></h3><sub>SOFTWARE PROJECT</sub><p>A public development project from my portfolio.</p><a href="https://github.com/Bomjan/tshongkhang">View repository</a></td></tr></table>
+</td>
+<td width="50%"></td>
+</tr></table>
 
 ---
 

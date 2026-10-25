@@ -1,51 +1,31 @@
+<div align="center"><img src="./Images/new-cover.png" alt="Sundra Bomjan" width="100%" /></div>
+
 <div align="center">
-  <img src="./Images/new-cover.png" alt="Sundra Bomjan" width="100%" />
+
+### Sundra Bomjan
+**Software Developer · CTO, Nori Botanical · Bhutan**
+
+Building useful software through full-stack development, applied AI, and continuous learning.
+
+[GitHub](https://github.com/Bomjan) · [LinkedIn](https://linkedin.com/in/sundrabomjan) · [Email](mailto:sundrabomjan@gmail.com)
+
 </div>
-
-## About Me
-
-I'm a software developer and **CTO at [Nori Botanical](https://noribotanical.com)**, building practical products with full-stack engineering and applied AI. I work primarily with Go, JavaScript/TypeScript, React, databases, and Linux, and I'm continuously strengthening my foundations in algorithms and systems design.
-
-I enjoy turning real problems into useful software, from early prototypes to deployed applications.
 
 ---
 
 ## Products I'm Building
 
-<sub>REAL PRODUCTS · PRIVATE SOURCE REPOSITORIES</sub>
+**REAL PRODUCTS · PRIVATE SOURCE CODE**
 
-<p>Two products I'm helping build for Bhutan. Their source code is private; the links below lead to public product experiences.</p>
-
-<table width="100%"><tr>
-<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
-<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://noribotanical.com">Nori Botanical</a></h3><sub>PLANT MARKETPLACE · CTO</sub><p>A marketplace making plant discovery, buying, and selling more organized and trustworthy.</p><a href="https://noribotanical.com">Visit website</a></td></tr></table>
-</td>
-<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
-<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://yigpar-game.onrender.com">Yigpar</a></h3><sub>DZONGKHA · EDUCATION</sub><p>A gamified Dzongkha typing experience. Second place at the Youth Tech-novation Hackathon (Level 2).</p><a href="https://yigpar-game.onrender.com">Explore Yigpar</a></td></tr></table>
-</td>
-</tr></table>
+<table width="100%"><tr><td width="50%" valign="top" align="left"><a href="https://noribotanical.com"><img src="./assets/project-icon.svg" alt="Project" width="55"/></a><h3><a href="https://noribotanical.com">Nori Botanical</a></h3><sub>PRIVATE PRODUCT</sub><p>Bhutan-focused plant marketplace. CTO and product engineering.</p><a href="https://noribotanical.com">Visit product</a></td><td width="50%" valign="top" align="left"><a href="https://yigpar-game.onrender.com"><img src="./assets/project-icon.svg" alt="Project" width="55"/></a><h3><a href="https://yigpar-game.onrender.com">Yigpar</a></h3><sub>PRIVATE PRODUCT</sub><p>Dzongkha typing game. Second place at the Youth Tech-novation Hackathon (Level 2).</p><a href="https://yigpar-game.onrender.com">Visit product</a></td></tr></table>
 
 ---
 
 ## Open-Source & Engineering Projects
 
-<sub>LEARNING · BUILDING · SHARING</sub>
+**LEARNING · BUILDING · SHARING**
 
-<p>Selected public repositories where I share code and engineering progress.</p>
-
-<table width="100%"><tr>
-<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
-<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/dzong-keeper-game">Dzong Keeper</a></h3><sub>JAVA · DATA STRUCTURES</sub><p>A Java game project for practicing object-oriented design, algorithms, and custom data structures.</p><a href="https://github.com/Bomjan/dzong-keeper-game">View repository</a></td></tr></table>
-</td>
-<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
-<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/one-minute-curiosity">One Minute Curiosity</a></h3><sub>CREATIVE DEVELOPMENT</sub><p>A project exploring bite-sized discoveries and engaging ways to share ideas.</p><a href="https://github.com/Bomjan/one-minute-curiosity">View repository</a></td></tr></table>
-</td>
-</tr><tr>
-<td width="50%" valign="top" style="border:1px solid #E8D6C5;padding:18px;">
-<table><tr><td width="76" valign="top"><img src="./assets/project-icon.svg" alt="Project" width="64" height="64" /></td><td valign="top"><h3><a href="https://github.com/Bomjan/tshongkhang">Tshongkhang</a></h3><sub>SOFTWARE PROJECT</sub><p>A public development project from my portfolio.</p><a href="https://github.com/Bomjan/tshongkhang">View repository</a></td></tr></table>
-</td>
-<td width="50%"></td>
-</tr></table>
+<table width="100%"><tr><td width="50%" valign="top" align="left"><a href="https://github.com/Bomjan/dzong-keeper-game"><img src="./assets/project-icon.svg" alt="Project" width="55"/></a><h3><a href="https://github.com/Bomjan/dzong-keeper-game">Dzong Keeper</a></h3><sub>PUBLIC REPOSITORY</sub><p>Java game development, algorithms, data structures and OOP.</p><a href="https://github.com/Bomjan/dzong-keeper-game">View code</a></td><td width="50%" valign="top" align="left"><a href="https://github.com/Bomjan/one-minute-curiosity"><img src="./assets/project-icon.svg" alt="Project" width="55"/></a><h3><a href="https://github.com/Bomjan/one-minute-curiosity">One Minute Curiosity</a></h3><sub>PUBLIC REPOSITORY</sub><p>Exploring and sharing interesting ideas in bite-sized formats.</p><a href="https://github.com/Bomjan/one-minute-curiosity">View code</a></td></tr><tr><td width="50%" valign="top" align="left"><a href="https://github.com/Bomjan/tshongkhang"><img src="./assets/project-icon.svg" alt="Project" width="55"/></a><h3><a href="https://github.com/Bomjan/tshongkhang">Tshongkhang</a></h3><sub>PUBLIC REPOSITORY</sub><p>A public software development project.</p><a href="https://github.com/Bomjan/tshongkhang">View code</a></td><td width="50%"></td></tr></table>
 
 ---
 

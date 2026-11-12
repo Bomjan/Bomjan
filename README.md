@@ -56,13 +56,13 @@
 <tr>
 <td align="center" width="33%">
 
-[![gmc-wishing-tree](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=gmc-wishing-tree&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/gmc-wishing-tree)
-<sub>Last activity: 2026-11-11</sub>
+[![one-minute-curiosity](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/one-minute-curiosity)
+<sub>Last activity: 2026-11-12</sub>
 
 </td>
 <td align="center" width="33%">
 
-[![one-minute-curiosity](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=one-minute-curiosity&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/one-minute-curiosity)
+[![gmc-wishing-tree](https://github-readme-stats.vercel.app/api/pin/?username=Bomjan&repo=gmc-wishing-tree&hide_border=true&bg_color=FBF3EA&title_color=4A3526&text_color=6B4F3F&icon_color=C17F59)](https://github.com/Bomjan/gmc-wishing-tree)
 <sub>Last activity: 2026-11-11</sub>
 
 </td>
